@@ -1,4 +1,15 @@
-# Tailwind CSS Webpack Starter Project
+# Tailwind config for Tuple
+
+## Client config
+
+Check out the `update-tw-and-customize-for-tuple` branch.
+
+## Backend config
+
+Check out the `master` branch. I copied over the generated css into the Rails app to avoid doing Webpacker shenanigans in the Rails app for now.
+
+
+## Setup
 
 This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
 
@@ -29,7 +40,3 @@ npm run prod
 ```
 
 After that you will have a ready to deploy bundle at `/dist`
-
-## Contributing
-
-Have a lot of experience with Webpack and suggestions on how we could improve this starter template? We'd love a PR!
